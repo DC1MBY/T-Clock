@@ -1,8 +1,8 @@
 # T-Clock: A Nixie tube clock build from transistors only
 
-The first working transistor demo just had its 75th aniversary: https://en.wikipedia.org/wiki/History_of_the_transistor How to better celebrate it than having (103 times) fun with transistors? Some time back I discovered in the German magazin Funkschau 1969 #2, #2 and #10 the article "Digital-Uhr zum Selbstbau", a copy of it can be found here: http://www.nixieuhren.de/downloads/digitaluhrfunkschau.pdf It is an Nixie clock design completly based on transistors. I always wanted to build one of these. When I found out that Kicad supports auto routing (freeRouting/LayoutEditor), that became much more feasible. This repository contains the PCB designs as well as OpenScad designs for the case.
+The first working transistor demo just had its 75th aniversary: https://en.wikipedia.org/wiki/History_of_the_transistor How to better celebrate it than having (103 times) fun with transistors? Some time back I discovered in the German magazin Funkschau 1969 #2, #2 and #10 the article "Digital-Uhr zum Selbstbau", a copy of it can be found here: http://www.nixieuhren.de/downloads/digitaluhrfunkschau.pdf It is an Nixie clock design completly based on transistors. I always wanted to build one of these. When I found out that Kicad supports auto routing (freeRouting/LayoutEditor), that became much more feasible. This repository contains the PCB designs as well as OpenScad designs for the case and the spacer for the Nixies.
 
-** Warning: Nixie tubes require high voltages which can be lethal. Please be careful! 
+** Warning: Nixie tubes require high voltages which can be lethal. Please be careful! **
 
 ![t-clock](img/t-clock.jpg)
 
@@ -34,7 +34,7 @@ The boards are stacked with 25mm M3 spacers and 10mm M3 spacers. The stack will 
 
 ### Nixie
 
-Even more difficult to source than the Nixie tubes are sockets for them. Therefore I soldered the Nixie tubes directly to the PCB. I've seen this methode first 
+Even more difficult to source than the Nixie tubes are sockets for them. Therefore I soldered the Nixie tubes directly to the PCB. I've seen this methode first in Russian test equipment offered on an flea market. For equally spacing the Nixie from the PCB an 3d printed spacer is used (in12b.scad).  
 ![nixie](img/nixie.jpg)
 
 ### Case
