@@ -26,6 +26,10 @@ Power source is a 12VAC 1.5A wall wart, this way no routing of mains voltage is 
 
 All components are easily obtainable except for the Nixie tubes. The IN-12 Nixie tube can still be found on ebay. Because the decimal point isn't used, both the IN-12A and IN-12B version will work fine.
 
+## Block Diagram
+
+![Block Diagram](img/blockdiag.jpg)
+
 ## Mechanical
 
 ### Boards
@@ -49,6 +53,10 @@ The case is based on the fantastic Ultimate Box Maker https://github.com/jbebel/
 The letters in the back panel are painted black with a sharpie. 
 
 ![t-clock in open case](img/t-clock_in_open_case.jpg)
+
+![screw mounting the stack to the case](img/screw.jpg)
+
+The screws can be installed with an Allen key through the vent. For the picture I didn't have the front panel installed yet, but the front panel needs to be installed before the screws. In this version of the case the tab was 2 mm thick and I broke one off. Therefore I made it 4mm thick. It might be best to print it with 100% infill for added stability.
 
 ## Summary
 
