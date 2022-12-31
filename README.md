@@ -48,11 +48,13 @@ The case is based on the fantastic Ultimate Box Maker https://github.com/jbebel/
 
 The letters in the back panel are painted black with a sharpie. 
 
-## Summary
+![t-clock in open case](img/t-clock_in_open_case.jpg)
 
-That was a fun project. It turned out to be quite easy to build a more than 50 years old design today. I fear one of today's "modern" Nixie clock designs based on an microcontroller will be much harder to build in 50 years from now, the toolchain for the controller will not work with Windows 2070, USB20 will be incompatible with USB2.0, ... ;)
+## Summary
 
 Things I might change if I'd redesign it:
 - Move the Nixies to the center of the pcb for better looks
 - Add a second mounting hole to the pcbs on the lower side (I made the usual mistake to first layout the pcbs and then think about the case)
 - Change to SMD components. I forgot how tedious it is to bend the leads and clip them.   
+
+That was a fun project. It turned out to be quite easy to build a more than 50 years old design today. I fear one of today's "modern" Nixie clock designs based on an microcontroller will be much harder to build in 50 years from now, the toolchain for the controller will not work with Windows 2070, USB20 will be incompatible with USB2.0, ... ;)
