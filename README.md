@@ -1,6 +1,6 @@
 # T-Clock: A Nixie tube clock build from transistors only
 
-The first working transistor demo just had its 75th anniversary: https://en.wikipedia.org/wiki/History_of_the_transistor How to better celebrate it than having (103 times) fun with transistors? Some time back I discovered in the German magazine Funkschau 1969 #2, #2 and #10 the article "Digital-Uhr zum Selbstbau", a copy of it can be found here: http://www.nixieuhren.de/downloads/digitaluhrfunkschau.pdf 
+The first working transistor demo just had its 75th anniversary: https://en.wikipedia.org/wiki/History_of_the_transistor How to better celebrate it than having (103 times) fun with transistors? Some time back I discovered in the German magazine Funkschau 1969 #2, #3 and #10 the article "Digital-Uhr zum Selbstbau", a copy of it can be found here: http://www.nixieuhren.de/downloads/digitaluhrfunkschau.pdf 
 It is a Nixie clock design completely based on transistors. I always wanted to build one of these. When I found out that Kicad supports auto routing (freeRouting/LayoutEditor), that became much more feasible. This repository contains the PCB designs as well as OpenScad designs for the case and the spacer for the Nixies.
 
 **Warning: Nixie tubes require high voltages which can be lethal. Please be careful!**
