@@ -39,4 +39,12 @@ Even more difficult to source than the Nixie tubes are sockets for them. Therefo
 
 ### Case
 
-TBD
+![t-clock in case](img/t-clock_in_case.jpg)
+
+The case is based on the fantastic Ultimate Box Maker https://github.com/jbebel/Ultimate-Box-Maker. The pcb mounts and the tabs are using M2.5 metal theraded inserts https://www.amazon.com/gp/product/B07NBPGTY2 .
+
+![t-clock back](img/t-clock_back.jpg)
+
+The letters in the back panel are painted black with an sharpie. 
+
+
